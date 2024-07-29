@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>nav</title>
+    <link href="/2024/07/29/nav/"/>
+    <url>/2024/07/29/nav/</url>
+    
+    <content type="html"><![CDATA[<ul><li><a href="https://chat.deepseek.com/">DeepSeek Chat</a></li><li><a href="https://pay.weixin.qq.com/docs/partner/apis/ecommerce-merchant-application/applyment/submit-applyment.html">微信支付 - 提交申请</a></li><li><a href="https://developers.weixin.qq.com/doc/oplatform/openApi/OpenApiDoc/miniprogram-management/record/queryIcpVerifyTask.html">微信开放平台 - 查询 ICP 验证任务</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>导航</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hexo.md</title>
     <link href="/2024/07/29/hexo/"/>
     <url>/2024/07/29/hexo/</url>
