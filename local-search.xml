@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>gitlab-runner-registry</title>
+    <link href="/2024/08/06/gitlab-runner-registry/"/>
+    <url>/2024/08/06/gitlab-runner-registry/</url>
+    
+    <content type="html"><![CDATA[<h1 id="CI-CD-配置文档"><a href="#CI-CD-配置文档" class="headerlink" title="CI&#x2F;CD 配置文档"></a>CI&#x2F;CD 配置文档</h1><h2 id="GitLab-Runner-注册信息"><a href="#GitLab-Runner-注册信息" class="headerlink" title="GitLab Runner 注册信息"></a>GitLab Runner 注册信息</h2><ul><li><strong>Registry URL</strong>: <a href="http://0.0.0.0/">http://0.0.0.0/</a></li><li><strong>Token</strong>: xxxxxxxx</li></ul><h2 id="Jenkins-服务器信息"><a href="#Jenkins-服务器信息" class="headerlink" title="Jenkins 服务器信息"></a>Jenkins 服务器信息</h2><ul><li><strong>Jenkins Server</strong>: jenkins-server-01</li></ul><h2 id="Kubernetes-Runner-信息"><a href="#Kubernetes-Runner-信息" class="headerlink" title="Kubernetes Runner 信息"></a>Kubernetes Runner 信息</h2><ul><li><strong>Kubernetes Runner</strong>: k8s-runner-production</li></ul><h2 id="Docker-镜像仓库信息"><a href="#Docker-镜像仓库信息" class="headerlink" title="Docker 镜像仓库信息"></a>Docker 镜像仓库信息</h2><ul><li><strong>Docker Image</strong>: registry.cn-hangzhou.aliyuncs.com&#x2F;xxx&#x2F;xxxx:1.0.0</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>nav</title>
     <link href="/2024/07/29/nav/"/>
     <url>/2024/07/29/nav/</url>
     
-    <content type="html"><![CDATA[<ul><li><a href="https://chat.deepseek.com/">DeepSeek Chat</a></li><li><a href="https://pay.weixin.qq.com/docs/partner/apis/ecommerce-merchant-application/applyment/submit-applyment.html">微信支付 - 提交申请</a></li><li><a href="https://developers.weixin.qq.com/doc/oplatform/openApi/OpenApiDoc/miniprogram-management/record/queryIcpVerifyTask.html">微信开放平台 - 查询 ICP 验证任务</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="人工智能"><a href="#人工智能" class="headerlink" title="人工智能"></a>人工智能</h3><ul><li><a href="https://chat.deepseek.com/">DeepSeek Chat</a></li></ul><h3 id="支付服务"><a href="#支付服务" class="headerlink" title="支付服务"></a>支付服务</h3><ul><li><a href="https://pay.weixin.qq.com/docs/partner/apis/ecommerce-merchant-application/applyment/submit-applyment.html">微信支付 - 提交申请</a></li></ul><h3 id="开放平台"><a href="#开放平台" class="headerlink" title="开放平台"></a>开放平台</h3><ul><li><a href="https://developers.weixin.qq.com/doc/oplatform/openApi/OpenApiDoc/miniprogram-management/record/queryIcpVerifyTask.html">微信开放平台 - 查询 ICP 验证任务</a></li></ul>]]></content>
     
     
     
